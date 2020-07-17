@@ -1,1 +1,1 @@
-def 
+def line(deli)
