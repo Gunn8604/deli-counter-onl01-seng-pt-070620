@@ -7,3 +7,4 @@ def line(deli)
       current_line << "#{i}. #{person}"
     end
     puts current_line
+  end
